@@ -14,7 +14,7 @@ import org.springframework.jdbc.core.JdbcTemplate;
 
 @SpringBootApplication
 public class LoadupdbApplication {
-
+//test
 	@Autowired
 	private DataSource dataSource;
 
